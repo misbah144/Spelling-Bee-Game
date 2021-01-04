@@ -122,8 +122,5 @@ Use the following commands for more details:
 
 ## inspiration
 
-
-
-
-
+This app is inspired by "philshem" and "Newyork Times Puzzle Game"
 
