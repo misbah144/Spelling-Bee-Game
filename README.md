@@ -2,7 +2,7 @@
 
 # 🐝
 
-Open source port of New York Times' puzzle game Spelling Bee for the command line.
+Open source porject of New York Times' puzzle game Spelling Bee for the command line.
 
 Requires Python 3.x and nothing but standard Python libraries.
 
@@ -117,3 +117,13 @@ Use the following commands for more details:
 + `X` as center letter: `XACESTV`, `XEFIOST`, `XAENSTU`, `XADEIRS`, `XAEINOT`, `XCENOST`, `XEFIPRS`, `XAERSTY`, `XDELOPS`, `XBELOST`, `XCDELSU`
 
 + `Z` as center letter: `ZORIBTE`, `ZRBEOSU`, `ZCEILST`,`ZAEMNST`,`ZADELRS`, `ZADENRS`, `ZAEIKLS`, `ZACENOS`, `ZGILNOS`, `ZABDELR`, `ZBEGINO`, `ZABGINS`, `ZEILNOR`, `ZABDELS`, `ZAELOST`
+
+---
+
+## inspiration
+
+
+
+
+
+
