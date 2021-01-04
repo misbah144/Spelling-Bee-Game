@@ -1,0 +1,11 @@
+*.code-workspace
+.vscode
+venv
+ignore
+stats.twb
+__pycache__
+*.log
+*.pyc
+test_hexagon.py
+*.csv
+get_nyt.py
