@@ -2,7 +2,7 @@
 
 # 🐝
 
-Open source porject of New York Times' puzzle game Spelling Bee for the command line.
+Python based project created for local educational institute.
 
 Requires Python 3.x and nothing but standard Python libraries.
 
